@@ -5,9 +5,13 @@ I am a dedicated full-stack developer with over 7 Months of experience in buildi
 Technical Skills:
 
 Languages/Frameworks: JavaScript, Node.js, Express.js
+
 Database: PostgreSQL, Sequelize ORM
+
 Frontend: EJS, Bootstrap, HTML, CSS
+
 Tools/Concepts: Migrations, Seeders, Data Validation, MVC, Async Programming, Schema Tables, SQL Queries
+
 Contact: Lionel.twosix@gmail.com | GitHub: LionelHaryono
 
 <!--
